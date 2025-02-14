@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/PotionDealerMain/Scenes/Menu.unity
     guid: 3589f081e6d90604584799bd51c68e70
   - enabled: 1
-    path: Assets/Scenes/DemoScene.unity
+    path: Assets/PotionDealerMain/Scenes/GameScene.unity
     guid: 7e9e400b198ede040beed3d45eac47b7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
